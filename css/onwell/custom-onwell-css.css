@@ -1,0 +1,8 @@
+/*Monitor size CSS*/
+.scale-6 {
+    transform: scale(1.3) !important;
+}
+
+div#p5{
+    padding: 1rem !important;
+}
